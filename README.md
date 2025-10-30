@@ -1,16 +1,19 @@
-## Hi there 👋
+## My name is Liam.
 
-<!--
-**lammmab/lammmab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a free-time developer, who specializes in backends, tinkering with systems, and making fun projects.
 
-Here are some ideas to get you started:
+### Currently, I'm learning / working on:
+- Full-stack development, with a focus on backends
+- Gaining knowledge in a multitude of languages
+- Building a portfolio to demonstrate my abilities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I have earned 4 certificates as of October 29th, 2025:
+1. CS50 with Python from Harvard University
+2. Computer Programming 1 from YouScience
+3. Computer Programming 2 Python from YouScience
+4. Game Development Fundamentals 1 from YouScience
+
+### Projects I've made:
+1. PyTerminal-Engine for the cs50 with Python final project. - first "game engine" project
+2. Zero'd Card Game for the cs50 with Python final project, aswell as an Odin backend + PixiJS frontend version. - first project with a full-stack backend / frontend, sessions with websockets, and game state communication across multiple clients
+3. Other small projects made in my free-time.
