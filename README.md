@@ -9,9 +9,13 @@ I am a free-time developer, who specializes in backends, tinkering with systems,
 
 ### I have earned 4 certificates as of October 29th, 2025:
 1. CS50 with Python from Harvard University
-2. Computer Programming 1 from YouScience
-3. Computer Programming 2 Python from YouScience
-4. Game Development Fundamentals 1 from YouScience
+![CS50p certificate](cs50p.png)
+3. Computer Programming 1 from YouScience
+![Computer Programming 1 certificate](comppro1.png)
+4. Computer Programming 2 Python from YouScience
+![Computer Programming 2 certificate](comppro2python.png)
+6. Game Development Fundamentals 1 from YouScience
+![Game Development Fundamentals 1 certificate](gamedevfund1.png)
 
 ### Projects I've made:
 1. PyTerminal-Engine for the cs50 with Python final project. - first "game engine" project
