@@ -7,6 +7,14 @@ I am a free-time developer, who specializes in backends, tinkering with systems,
 - Gaining knowledge in a multitude of languages
 - Building a portfolio to demonstrate my abilities.
 
+## Building my first portfolio project:
+- https://github.com/lammmab/decent-movies-portfolio
+TypeScript, SvelteKit, and NodeJS
+
+## I have these ideas in mind for my next portfolio projects:
+1. E2E encrypted chat service
+2. New, easy to edit portfolio page / blog site hosted on my main GitHub pages
+
 ### I have earned 4 certificates as of October 29th, 2025:
 1. CS50 with Python from Harvard University
 
