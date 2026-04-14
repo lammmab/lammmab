@@ -8,9 +8,10 @@ I am a software developer who specializes in backends and tinkering with systems
 - Building a diverse GitHub profile to demonstrate my knowledge in the field
 
 ### Projects I've made:
-1. PyTerminal-Engine for the cs50 with Python final project. - first "game engine" project
-2. Zero'd Card Game for the cs50 with Python final project, aswell as an Odin backend + PixiJS frontend version. - first project with a full-stack backend / frontend, sessions with websockets, and game state communication across multiple clients
-3. steam-min-cpp: A C++ Steam CM client connection manager.
+1. [PyTerminal-Engine](https://github.com/lammmab/pyterminal-engine): CS50P final project terminal "game engine" written in Python.
+2. Zero'd Card Game: A full, playable card game written in Odin and JavaScript.
+3. [steam-min-cpp](https://github.com/lammmab/steam-min-cpp): Steam CM client connections manager built in C++.
+4. [julianne](https://github.com/lammmab/julianne): A W.I.P. interpreted language built in Nim.
 
 ### I have earned 4 certificates as of October 29th, 2025:
 1. CS50 with Python from Harvard University
