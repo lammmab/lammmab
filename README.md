@@ -2,6 +2,19 @@
 
 I am a software developer who specializes in backends and tinkering with systems.
 
+### My Toolbelt
+* C++
+* CMake
+* Lua
+* Nim
+* Odin
+* Docker
+* Python
+* NodeJS
+* Cloudflare
+* Kotlin with Ktor
+* JavaScript / TypeScript
+
 ### Currently, I'm learning / working on:
 - Full-stack development, with a focus on backends
 - Gaining knowledge in a multitude of languages
