@@ -8,6 +8,7 @@ I am a software developer who specializes in backends and tinkering with systems
 * Lua
 * Nim
 * Odin
+* Shell / Batch (Windows & Linux)
 * Docker
 * Python
 * NodeJS
