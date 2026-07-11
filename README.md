@@ -27,7 +27,13 @@ I am a software developer who specializes in backends and tinkering with systems
 3. Sole maintainer and organization owner of [SteamCPP](https://github.com/orgs/SteamCPP)
 4. [julianne](https://github.com/lammmab/julianne): A W.I.P. interpreted language built in Nim.
 5. Maintaining [Linifadomra Org.](https://github.com/Linifadomra)
-6. Conceptualized and created [Augment](https://github.com/Linifadomra/Augment) - a C++ runtime hooking layer, allowing for easy reflection using code analysis and debug symbol parsing.
+6. Conceptualized and developed [Augment](https://github.com/Linifadomra/Augment) - a C++ runtime hooking layer, allowing for easy reflection using code analysis and debug symbol parsing.
+
+---
+
+[![Backers](https://opencollective.com/lees-donations/backers/badge.svg)](https://opencollective.com/lees-donations)
+
+---
 
 ### I have earned 4 certificates as of October 29th, 2025:
 1. CS50 with Python from Harvard University
