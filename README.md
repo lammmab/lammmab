@@ -31,10 +31,6 @@ I am a software developer who specializes in backends and tinkering with systems
 
 ---
 
-[![Backers](https://opencollective.com/lees-donations/backers/badge.svg)](https://opencollective.com/lees-donations)
-
----
-
 ### I have earned 4 certificates as of October 29th, 2025:
 1. CS50 with Python from Harvard University
 
